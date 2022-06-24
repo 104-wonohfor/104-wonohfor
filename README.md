@@ -47,7 +47,7 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <br>
 <br>
 
-### Programing Language:
+### Programing Languages:
 <img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175476462-80064cac-1e1f-4a60-92c0-c498cac8f807.png" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" />
