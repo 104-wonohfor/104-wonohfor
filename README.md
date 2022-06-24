@@ -1,7 +1,8 @@
 Hello! I am 104 :>
 
 I am studying at Hanoi University of Science and Technology (HUST). 
-```diff
+
+ ```diff
 -1010010               011011 0110101              1010101  101000101100000010001011101 0001000111010001111100
 -1010001               100110 1101101              1110101 0000110011011110011010101101 1001000111100000011010
 -1111101               010001 1111100              0101110 1000010                             10100111
@@ -15,7 +16,7 @@ I am studying at Hanoi University of Science and Technology (HUST).
 -1010100              1100110    10011001011001100000      001011010100110000110               10110010
 ```                              
                                                     ONE LOVE. ONE FUTURE
-Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.org/2NQ2u7) - [Onlyfan](https://ibb.co/5k0tnsm)
+Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.org/2NQ2u7) - [Onlyfan](https://user-images.githubusercontent.com/104601534/175476193-c6a1efcd-73f6-4305-b8d6-053599cdc9b1.jpg)
 
 
 Buy me some Americano 🤤 : [PayPal](https://www.paypal.com/paypalme/104wonohfor) - [Playerduo](https://playerduo.com/18tuoimatem)
@@ -40,10 +41,8 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <br>
 
 ### Programing Language:
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/s/43/sublime-text.svg" />
+<img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175476462-80064cac-1e1f-4a60-92c0-c498cac8f807.png" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" />
 <img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175475860-a3da0982-6775-457d-9043-b1c06c80e78c.png" />
-
-
 
