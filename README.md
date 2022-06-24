@@ -25,4 +25,4 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 + ️🎧 LISTENING ON SPOTIFY️:
 ``` 
 
------------------------------------[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&redirect=true)-----------------------------------
+-------------------------------------------------[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&redirect=true)-------------------------------------------------
