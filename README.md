@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/104601534/183282112-be009033-05ae-42af-9dcd-7cb00af089f5.mp4
 
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
 
