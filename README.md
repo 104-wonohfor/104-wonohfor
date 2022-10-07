@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
 
-Hello! I am 526 :>
+Hello! I am 104 :>
 <br>
 I am studying at Hanoi University of Science and Technology (HUST). 
 
