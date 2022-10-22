@@ -5,10 +5,10 @@ Hello! I am 104 :>
 <br>
 I am studying at Hanoi University of Science and Technology (HUST). 
 
-<div align="center">
-<a href="https://github.com/104-wonohfor/github-stats">
-<img src="https://github.com/104-wonohfor/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/104-wonohfor/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+![](https://github.com/104-wonohfor/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/104-wonohfor/github-stats/blob/master/generated/languages.svg)
+
 
 
 
