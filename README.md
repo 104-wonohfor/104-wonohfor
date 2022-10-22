@@ -1,12 +1,18 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
 <p align="center">
-  <a href="https://github.com/104-wonohfor"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hello+!+;I'm+104;I'm+studying+at;Hanoi+University;of+Science+and+Technology+(HUST)" alt="104 | hello!" /></a>
+  <a href="https://github.com/104-wonohfor"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=25&duration=2311&pause=500&color=64dfdf&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hello+!+I'm+104!;I'm+studying+at;Hanoi+University+of+Science+and+Technology+(HUST)!" alt="104 | hello!" /></a>
 </p> 
 
-![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
-<a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="104's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
-<br><br>
-[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=000000&color=64dfdf&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
+<p align="center">
+<a href="https://github.com/104-wonohfor">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=104-wonohfor&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=64dfdf&text_color=6930c3&bg_color=0f1123&border_radius=8" />
+  
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&langs_count=8&layout=compact&hide=java&title_color=64dfdf&text_color=6930c3&bg_color=0f1123&border_radius=8" />
+</a>
+  </p>
+
+
+[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=0f1123&color=64dfdf&line=6930c3&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
 
 
 
