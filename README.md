@@ -1,9 +1,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br><br><br><br><br><br><br><br>
+
 ```
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
