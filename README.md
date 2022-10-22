@@ -2,7 +2,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
 
 ![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
-<a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+<a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="104's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+<br><br>
+[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
+ <!--[104's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&theme=xcode)>
 
 
 ```
@@ -71,7 +74,6 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" />
 <img align='left' height="64" width="72" src="https://user-images.githubusercontent.com/104601534/175475860-a3da0982-6775-457d-9043-b1c06c80e78c.png" />
 <img align='left' height="64" width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
-
 
 
 
