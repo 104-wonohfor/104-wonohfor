@@ -41,7 +41,7 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" />
 <img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175475860-a3da0982-6775-457d-9043-b1c06c80e78c.png" />
-<img align='left' height="64" width="64" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
+<img align='left' height="64" width="64" src="https://w7.pngwing.com/pngs/520/669/png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark-thumbnail.png" />
 
 
 
