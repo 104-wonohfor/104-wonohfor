@@ -1,38 +1,12 @@
-
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
-```
-
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-                                
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.                             
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`             
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`          
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.           
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0                     Hello! I am 104 :>
-a@@@@@@@@@@2                                    v@@@@@@@@@@;                     I am studying at 
-#@@@@@@@@@@_                                     @@@@@@@@@@y       Hanoi University of Science and Technology (HUST).
-@@@@@@@@@@@.                                     @@@@@@@@@@%   
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=          
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
-              "Lf8@@@@v              q@@@#Qa?:                 
-                  -!v|`              _?v!`                  
-```
+<p align="center">
+  <a href="https://github.com/104-wonohfor"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hello+!+;I'm+104;I'm+studying+at;Hanoi+University;of+Science+and+Technology+(HUST)" alt="104 | hello!" /></a>
+</p> 
 
 ![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
 <a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="104's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
 <br><br>
-[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
+[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=000000&color=64dfdf&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
 
 
 
