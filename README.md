@@ -2,8 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
 
 ![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
 
 
 ```
