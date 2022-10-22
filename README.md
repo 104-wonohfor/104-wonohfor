@@ -6,6 +6,8 @@ Hello! I am 104 :>
 I am studying at Hanoi University of Science and Technology (HUST). 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&count_private=true&show_icons=true&theme=light)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 
 
