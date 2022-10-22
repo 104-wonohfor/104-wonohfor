@@ -1,13 +1,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
-
-![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
-<a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="104's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
-<br><br>
-[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
- <!--[104's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&theme=xcode)>
-
-
 ```
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
@@ -37,6 +29,14 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                   -!v|`              _?v!`                  
 ```
 
+![104-wonohfor's GitHub stats](https://github-readme-stats.vercel.app/api?username=104-wonohfor&show_icons=true&theme=tokyonight)
+<a href="https://github.com/104-wonohfor/104-wonohfor"><img alt="104's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+<br><br>
+[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
+
+
+
+
 <br>
 
 
@@ -48,11 +48,15 @@ Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.
 Buy me some Americano 🤤 : [PayPal](https://www.paypal.com/paypalme/104wonohfor) - [Playerduo](https://playerduo.com/18tuoimatem)
 Or: l88888888888 TP Bank (Vo Duc Thang)
 
+
 ```diff
 + ️🎧 LISTENING ON SPOTIFY️:
 ``` 
+<div align="center">
 
-----------------------------------------------[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&redirect=true)----------------------------------------------
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&redirect=true)
+
+</div>
 
 ### Tools:
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/s/43/sublime-text.svg" />
