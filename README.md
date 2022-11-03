@@ -8,7 +8,7 @@
 Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.org/2NQ2u7) - [LinkedIn](https://www.linkedin.com/in/thang-vo-duc-104-wonohfor/)
 
 
-Buy me some Americano 🤤 : [PayPal](https://www.paypal.com/paypalme/104wonohfor) - [Playerduo](https://playerduo.com/18tuoimatem)
+Buy me some Americano 🤤 : [PayPal](https://www.paypal.com/paypalme/104wonohfor)
 Or: l88888888888 TP Bank (Vo Duc Thang)
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
