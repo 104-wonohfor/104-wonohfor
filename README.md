@@ -36,7 +36,7 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/s/43/sublime-text.svg" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" />
 <img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175475552-b9a6c4be-3ab0-4d1f-af77-65f8f978fe9a.png" />
-<img align='left' height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/XAMPP_Logo.png/591px-XAMPP_Logo.png?20220326082245" />
+<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/x/32/xampp.svg" />
 <br>
 <br>
 <br>
