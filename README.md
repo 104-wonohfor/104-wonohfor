@@ -16,12 +16,12 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <a href="https://github.com/104-wonohfor">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=104-wonohfor&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=64dfdf&text_color=6930c3&bg_color=0f1123&border_radius=8" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&langs_count=8&layout=compact&hide=java&title_color=64dfdf&text_color=6930c3&bg_color=0f1123&border_radius=8" />
+
 </a>
 </p>
 
 
-[![104's github activity graph](https://activity-graph.herokuapp.com/graph?username=104-wonohfor&bg_color=0f1123&color=64dfdf&line=6930c3&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
-
+[![104's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=104-wonohfor&bg_color=0f1123&color=64dfdf&line=6930c3&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
 
 
 
