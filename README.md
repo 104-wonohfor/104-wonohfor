@@ -14,7 +14,7 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
 <p align="center">
 <a href="https://github.com/104-wonohfor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=104-wonohfor&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=64dfdf&text_color=6930c3&bg_color=0f1123&border_radius=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=104-wonohfor&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=64dfdf&text_color=6930c2&bg_color=0f1123&border_radius=8" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=104-wonohfor&langs_count=8&layout=compact&hide=java&title_color=64dfdf&text_color=6930c2&bg_color=0f1123&border_radius=8" />
 
 </a>
