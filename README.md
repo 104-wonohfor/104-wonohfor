@@ -40,17 +40,16 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 <img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175475552-b9a6c4be-3ab0-4d1f-af77-65f8f978fe9a.png" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/x/32/xampp.svg" />
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/g/44/google-bigquery.svg" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" />
-
-<br>
-<br>
-<br>
-
-### Databases:
 <img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" />
+<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" />
+<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" />
+<img align='left' height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" />
+
+
 <br>
 <br>
 <br>
+
 
 ### Languages:
 <img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175476462-80064cac-1e1f-4a60-92c0-c498cac8f807.png" />
