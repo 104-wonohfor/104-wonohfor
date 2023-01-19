@@ -23,7 +23,7 @@ Or: l88888888888 TP Bank (Vo Duc Thang)
 </p>
 
 
-[![104's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=104-wonohfor&bg_color=0f1123&color=64dfdf&line=6930c2&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
+[![104's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=104-wonohfor&bg_color=0f1123&color=64dfdf&line=6930c3&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
 
 
 
