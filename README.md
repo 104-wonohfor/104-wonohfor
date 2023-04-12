@@ -31,21 +31,6 @@ Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.
 
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Technical Stacks </h2>  
 
-### Tools:
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/s/43/sublime-text.svg" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" />
-<img align='left' height="64" width="64" src="https://user-images.githubusercontent.com/104601534/175475552-b9a6c4be-3ab0-4d1f-af77-65f8f978fe9a.png" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/x/32/xampp.svg" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/g/44/google-bigquery.svg" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" />
-<img align='left' height="64" width="64" src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" />
-<img align='left' height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" />
-
-
-<br>
-<br>
-<br>
 
 
 ### Languages:
@@ -56,13 +41,6 @@ Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.
 
 <br><br><br>
 
-```diff
-+ ️🎧 LISTENING ON SPOTIFY️:
-``` 
-<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31orsm4voxb6nasyw57fulqpzmsq&redirect=true)
-
-</div>
 
 
