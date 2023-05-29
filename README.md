@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=104-wonohfor.104-wonohfor)
-
 <p align="center">
   <a href="https://github.com/104-wonohfor"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=25&duration=2311&pause=500&color=64dfdf&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hello+!+I'm+104!;I'm+studying+at;Hanoi+University+of+Science+and+Technology+(HUST)!" alt="104 | hello!" /></a>
 </p> 
@@ -18,12 +16,7 @@ Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.
 
 </a>
 </p>
-
-
-[![104's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=104-wonohfor&bg_color=0f1123&color=64dfdf&line=6930c3&point=1adbce&area=true&hide_border=true)](https://github.com/104-wonohfor/github-readme-activity-graph)
-
-
-
+<img height="280em" width="1000em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=104-wonohfor&&bg_color=0f1123&color=64dfdf&line=6930c3&point=1adbce&area=true&hide_border=true" />
 <br>
 
 
