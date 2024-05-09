@@ -38,3 +38,4 @@ Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.
 
 
 https://www.cse.cuhk.edu.hk/~byu/CENG3420/2020Spring/doc/HW2-sol.pdf
+![image](https://github.com/104-wonohfor/104-wonohfor/assets/104601534/d1acb222-ad9c-46ab-ab4a-7af543b23bf8)
