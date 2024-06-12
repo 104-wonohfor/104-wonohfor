@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/104-wonohfor"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=25&duration=2311&pause=500&color=64dfdf&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hello+!+I'm+104!;I'm+studying+at;Hanoi+University+of+Science+and+Technology+(HUST)!" alt="104 | hello!" /></a>
+  <a href="https://github.com/104-wonohfor"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=25&duration=2311&pause=500&color=64dfdf&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hello+!+I'm+Thang!;I'm+studying+at;Hanoi+University+of+Science+and+Technology+(HUST)!" alt="104 | hello!" /></a>
 </p> 
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> My Info </h2>
