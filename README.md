@@ -3,7 +3,7 @@
 </p> 
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> My Info </h2>
-Reach me: [Instagram](https://iplogger.org/2N02u7) - [Twitter](https://iplogger.org/2NQ2u7) - [LinkedIn](https://www.linkedin.com/in/thang-vo-duc-104-wonohfor/)
+Reach me: [LinkedIn](https://www.linkedin.com/in/thang-vo-duc-104-wonohfor/)
 
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
